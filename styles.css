@@ -83,10 +83,10 @@ button:hover {
 .current-operand {
   border: 1px solid #ddd;
   border-radius: 1px;
-  height: 60px;
+  height: 100px;
   width: 290px;
   padding-right: -65px;
-  padding-top: 20px;  /* makes the current below*/
+  padding-top: 50px;  /* makes the current below*/
   text-align: center;
   margin-right: 90px;
   font-size: 1.75rem;
