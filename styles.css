@@ -74,9 +74,9 @@ button:hover {
   height: 60px;
   width: 290px;
   padding-right: -65px;
-  padding-top: -40px;
+  padding-top: 40px;  /* makes the current below*/
   text-align: center;
-  margin-right: 50px;
+  margin-right: 90px;
   font-size: 1.75rem;
   overflow-x: auto;
   transition: all .2s ease-in-out;
