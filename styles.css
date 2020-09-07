@@ -67,15 +67,16 @@ button:hover {
   border-color: #bbb;
 }
 
+
 .current-operand {
   border: 1px solid #ddd;
   border-radius: 1px;
   height: 60px;
   width: 290px;
-  padding-right: -25px;
-  padding-top: -3px;
+  padding-right: -95px;
+  padding-top: 0px;
   text-align: center;
-  margin-right: 20px;
+  margin-right: 50px;
   font-size: 1.75rem;
   overflow-x: auto;
   transition: all .2s ease-in-out;
