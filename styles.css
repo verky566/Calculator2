@@ -86,7 +86,7 @@ button:hover {
   height: 60px;
   width: 290px;
   padding-right: -65px;
-  padding-top: 40px;  /* makes the current below*/
+  padding-top: 20px;  /* makes the current below*/
   text-align: center;
   margin-right: 90px;
   font-size: 1.75rem;
